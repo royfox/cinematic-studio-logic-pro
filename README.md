@@ -1,0 +1,1 @@
+Articulation management for Cinematic Studio Series in Logic Pro X
