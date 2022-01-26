@@ -26,31 +26,11 @@
 		</dict>
 		<dict>
 			<key>ArticulationID</key>
-			<integer>3</integer>
-			<key>ID</key>
-			<integer>1003</integer>
-			<key>Name</key>
-			<string>Legato (Start)</string>
-			<key>Output</key>
-			<array/>
-		</dict>
-		<dict>
-			<key>ArticulationID</key>
 			<integer>4</integer>
 			<key>ID</key>
 			<integer>1004</integer>
 			<key>Name</key>
 			<string>Marcato Legato</string>
-			<key>Output</key>
-			<array/>
-		</dict>
-		<dict>
-			<key>ArticulationID</key>
-			<integer>5</integer>
-			<key>ID</key>
-			<integer>1005</integer>
-			<key>Name</key>
-			<string>Marcato Legato (Start)</string>
 			<key>Output</key>
 			<array/>
 		</dict>
@@ -161,16 +141,6 @@
 			<integer>1017</integer>
 			<key>Name</key>
 			<string>Marcato Legato With Overlay</string>
-			<key>Output</key>
-			<array/>
-		</dict>
-		<dict>
-			<key>ArticulationID</key>
-			<integer>27</integer>
-			<key>ID</key>
-			<integer>1018</integer>
-			<key>Name</key>
-			<string>Marcato Legato With Overlay (Start)</string>
 			<key>Output</key>
 			<array/>
 		</dict>

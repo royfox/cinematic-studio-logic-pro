@@ -26,16 +26,6 @@
 		</dict>
 		<dict>
 			<key>ArticulationID</key>
-			<integer>3</integer>
-			<key>ID</key>
-			<integer>1003</integer>
-			<key>Name</key>
-			<string>Legato (start)</string>
-			<key>Output</key>
-			<array/>
-		</dict>
-		<dict>
-			<key>ArticulationID</key>
 			<integer>4</integer>
 			<key>ID</key>
 			<integer>1004</integer>
@@ -80,7 +70,7 @@
 			<key>ID</key>
 			<integer>1008</integer>
 			<key>Name</key>
-			<string>Trills</string>
+			<string>Whole Step Trills</string>
 			<key>Output</key>
 			<array/>
 		</dict>
@@ -106,16 +96,6 @@
 		</dict>
 		<dict>
 			<key>ArticulationID</key>
-			<integer>11</integer>
-			<key>ID</key>
-			<integer>1011</integer>
-			<key>Name</key>
-			<string>Marcato with overlay (start)</string>
-			<key>Output</key>
-			<array/>
-		</dict>
-		<dict>
-			<key>ArticulationID</key>
 			<integer>12</integer>
 			<key>ID</key>
 			<integer>1012</integer>
@@ -126,21 +106,21 @@
 		</dict>
 		<dict>
 			<key>ArticulationID</key>
-			<integer>13</integer>
-			<key>ID</key>
-			<integer>1013</integer>
-			<key>Name</key>
-			<string>Marcato without overlay (start)</string>
-			<key>Output</key>
-			<array/>
-		</dict>
-		<dict>
-			<key>ArticulationID</key>
 			<integer>14</integer>
 			<key>ID</key>
 			<integer>1014</integer>
 			<key>Name</key>
 			<string>Flutter (flutes only)</string>
+			<key>Output</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>15</integer>
+			<key>ID</key>
+			<integer>1003</integer>
+			<key>Name</key>
+			<string>Half Step Trills</string>
 			<key>Output</key>
 			<array/>
 		</dict>
